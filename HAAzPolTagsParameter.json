@@ -1,0 +1,16 @@
+{
+
+	"tagName": {
+
+		"type": "String",
+
+		"metadata": {
+
+			"description": "Tag Name, Like Project or ManagedBy"
+
+		}
+
+	}
+
+
+}
